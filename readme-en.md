@@ -1,13 +1,9 @@
 # genshin-impact-transparent
 
-Sweet! What a cute Genshin Impact script!
+Makes the genshin window run translucent.
 
 ## Introduction
 
-A script based on `AHK` that provides a few small features for Genshin Impact players.
+`F9` decreases opacity; `F10` increases opacity.
 
-**Does not contain any cheats.**
-
-## Disclaimers
-
-You knew that.
+Over.
